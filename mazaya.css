@@ -1,0 +1,2016 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1303px;
+	height: 2924px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_2 {
+	position: absolute;
+	width: 1302px;
+	height: 2581px;
+	left: 0px;
+	top: -120px;
+	overflow: visible;
+}
+#Rectangle_37 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 2487px;
+	left: 1px;
+	top: 94px;
+}
+#fiks_1 {
+	opacity: 0.5;
+	position: absolute;
+	width: 1300px;
+	height: 868px;
+	left: 1px;
+	top: 302px;
+	overflow: visible;
+}
+#Rectangle_41 {
+	fill: rgba(242,243,226,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_41 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 207px;
+	left: 1px;
+	top: 90px;
+}
+#Beranda {
+	left: 317px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(195,170,206,1);
+}
+#Kategori {
+	left: 460px;
+	top: 262px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#Rekomendasi_ {
+	left: 603px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#Promo_ {
+	left: 799px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#n_46-1468479_my-profile-icon-b_ {
+	position: absolute;
+	width: 111px;
+	height: 88px;
+	left: 41px;
+	top: 120px;
+	overflow: visible;
+}
+#Scroll_Group_22 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 79px;
+	height: 55px;
+	left: 32px;
+	top: 210px;
+	overflow: hidden;
+}
+#Path_22 {
+	opacity: 0.48;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_22 {
+	mix-blend-mode: color-dodge;
+	overflow: visible;
+	position: absolute;
+	width: 151px;
+	height: 91px;
+	left: -8px;
+	top: -13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Cendekia_Bookstore_ {
+	left: 546px;
+	top: 135px;
+	position: absolute;
+	overflow: visible;
+	width: 599px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(181,149,23,1);
+}
+#pngtree-google-search-bar-for- {
+	position: absolute;
+	width: 389px;
+	height: 54px;
+	left: 912px;
+	top: 313px;
+	overflow: visible;
+}
+#Tentang_ {
+	left: 925px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#n_5e24578a10e0be824ec81df44aca_ba {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 1167px;
+	top: 227px;
+	overflow: visible;
+}
+#Scroll_Group_23 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 79px;
+	height: 55px;
+	left: 128px;
+	top: 210px;
+	overflow: hidden;
+}
+#Path_23 {
+	opacity: 0.48;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_23 {
+	mix-blend-mode: color-dodge;
+	overflow: visible;
+	position: absolute;
+	width: 151px;
+	height: 91px;
+	left: -8px;
+	top: -13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Daftar_bd {
+	left: 41px;
+	top: 226px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(197,54,54,1);
+}
+#Masuk_be {
+	left: 140px;
+	top: 226px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(197,54,54,1);
+}
+#CENDEKIA-removebg-preview {
+	position: absolute;
+	width: 380px;
+	height: 380px;
+	left: 231px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_42 {
+	fill: rgba(242,243,226,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 207px;
+	left: 1px;
+	top: 94px;
+}
+#Beranda_ {
+	left: 317px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(12,1,17,1);
+}
+#Kategori_ {
+	left: 460px;
+	top: 262px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(195,170,206,1);
+}
+#Rekomendasi_ {
+	left: 603px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#Promo_ {
+	left: 799px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#n_46-1468479_my-profile-icon-b_ {
+	position: absolute;
+	width: 111px;
+	height: 88px;
+	left: 41px;
+	top: 120px;
+	overflow: visible;
+}
+#Scroll_Group_24 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 79px;
+	height: 55px;
+	left: 32px;
+	top: 210px;
+	overflow: hidden;
+}
+#Path_24 {
+	opacity: 0.48;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_24 {
+	mix-blend-mode: color-dodge;
+	overflow: visible;
+	position: absolute;
+	width: 151px;
+	height: 91px;
+	left: -8px;
+	top: -13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Cendekia_Bookstore_ {
+	left: 546px;
+	top: 135px;
+	position: absolute;
+	overflow: visible;
+	width: 599px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(181,149,23,1);
+}
+#Tentang_ {
+	left: 925px;
+	top: 266px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(9,10,10,1);
+}
+#n_5e24578a10e0be824ec81df44aca_ba {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 1167px;
+	top: 227px;
+	overflow: visible;
+}
+#Scroll_Group_25 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 79px;
+	height: 55px;
+	left: 128px;
+	top: 210px;
+	overflow: hidden;
+}
+#Path_25 {
+	opacity: 0.48;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_25 {
+	mix-blend-mode: color-dodge;
+	overflow: visible;
+	position: absolute;
+	width: 151px;
+	height: 91px;
+	left: -8px;
+	top: -13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Daftar_bd {
+	left: 41px;
+	top: 226px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(197,54,54,1);
+}
+#Masuk_be {
+	left: 140px;
+	top: 226px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(197,54,54,1);
+}
+#CENDEKIA-removebg-preview_bf {
+	position: absolute;
+	width: 380px;
+	height: 380px;
+	left: 211px;
+	top: 18px;
+	overflow: visible;
+}
+#Rectangle_43 {
+	fill: rgba(233,225,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 170px;
+	left: 81px;
+	top: 421px;
+}
+#Rectangle_44 {
+	fill: rgba(233,225,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 170px;
+	left: 822px;
+	top: 423px;
+}
+#Rectangle_45 {
+	fill: rgba(233,225,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 170px;
+	left: 575px;
+	top: 415px;
+}
+#Rectangle_46 {
+	fill: rgba(233,225,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 170px;
+	left: 328px;
+	top: 421px;
+}
+#Rectangle_47 {
+	fill: rgba(233,225,107,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 170px;
+	left: 1069px;
+	top: 423px;
+}
+#bc66bc6199c724e334521e41964f82 {
+	position: absolute;
+	width: 97px;
+	height: 101px;
+	left: 99px;
+	top: 448px;
+	overflow: visible;
+}
+#n_9161db3aa16bcde956180d4b2ab1 {
+	position: absolute;
+	width: 87px;
+	height: 87px;
+	left: 360px;
+	top: 448px;
+	overflow: visible;
+}
+#n_1a420bd0d9163ff3b3b22589e09b {
+	position: absolute;
+	width: 127px;
+	height: 178px;
+	left: 595px;
+	top: 399px;
+	overflow: visible;
+}
+#n_8d037d964a27dc04b9200460d8d5 {
+	position: absolute;
+	width: 95px;
+	height: 95px;
+	left: 842px;
+	top: 440px;
+	overflow: visible;
+}
+#f8df29a317d6ab2289971b1bd20a63 {
+	position: absolute;
+	width: 134px;
+	height: 134px;
+	left: 1073px;
+	top: 429px;
+	overflow: visible;
+}
+#Rectangle_48 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 365px;
+	left: 1px;
+	top: 1244px;
+}
+#Path_26 {
+	fill: rgba(128,141,143,0.941);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_26 {
+	overflow: visible;
+	position: absolute;
+	width: 1270px;
+	height: 375px;
+	left: 15px;
+	top: 717px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_50 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 49px;
+	top: 749px;
+}
+#Rectangle_51 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 294px;
+	top: 749px;
+}
+#Rectangle_52 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 546px;
+	top: 749px;
+}
+#Rectangle_53 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 798px;
+	top: 749px;
+}
+#Screenshot_105 {
+	position: absolute;
+	width: 200px;
+	height: 199px;
+	left: 49px;
+	top: 749px;
+	overflow: visible;
+}
+#Rectangle_54 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_54 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 1050px;
+	top: 749px;
+}
+#Pocket_Book_Harry__Potter_JK_R {
+	left: 93px;
+	top: 955px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Rp_44999 {
+	left: 116px;
+	top: 1002px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Screenshot_107 {
+	position: absolute;
+	width: 133px;
+	height: 202px;
+	left: 328px;
+	top: 753px;
+	overflow: visible;
+}
+#Destiny_of_Souls_new_case_stud {
+	left: 338px;
+	top: 966px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Rp__120000 {
+	left: 356px;
+	top: 1013px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Screenshot_110 {
+	position: absolute;
+	width: 147px;
+	height: 206px;
+	left: 575px;
+	top: 749px;
+	overflow: visible;
+}
+#Novel_Maaf_tuhan__Aku_Hampir_M {
+	left: 578px;
+	top: 966px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Rp20000 {
+	left: 615px;
+	top: 1013px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#n_05439 {
+	position: absolute;
+	width: 150px;
+	height: 217px;
+	left: 829px;
+	top: 749px;
+	overflow: visible;
+}
+#Infinite_Power_ {
+	left: 858px;
+	top: 984px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Rp_54_825 {
+	left: 862px;
+	top: 1020px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(24,23,25,1);
+}
+#Jangan_Diklik1__Rahasia_Ayu {
+	left: 1072px;
+	top: 972px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	height: 66px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#n_6d50275832e61558f7ebca8bc3de {
+	position: absolute;
+	width: 150px;
+	height: 222px;
+	left: 1078px;
+	top: 749px;
+	overflow: visible;
+}
+#Rp_62300 {
+	left: 1117px;
+	top: 1020px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Rectangle_55 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_55 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 16px;
+	top: 1277px;
+}
+#Path_27 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_27 {
+	overflow: visible;
+	position: absolute;
+	width: 200px;
+	height: 300px;
+	left: 233px;
+	top: 1277px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_57 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 884px;
+	top: 1277px;
+}
+#Rectangle_58 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 667px;
+	top: 1277px;
+}
+#Rectangle_59 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_59 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 450px;
+	top: 1277px;
+}
+#Rectangle_60 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_60 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 1101px;
+	top: 1277px;
+}
+#n_786022203018_Merebah-Riuh {
+	position: absolute;
+	width: 147px;
+	height: 216px;
+	left: 43px;
+	top: 1277px;
+	overflow: visible;
+}
+#Merbah_Riuh_ {
+	left: 70px;
+	top: 1513px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Note_Book {
+	left: 112px;
+	top: 537px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 24px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(14,14,14,1);
+}
+#Buku_Andalan {
+	left: 355px;
+	top: 549px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(14,14,14,1);
+}
+#Novel__Komik {
+	left: 595px;
+	top: 539px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(14,14,14,1);
+}
+#Academy {
+	left: 861px;
+	top: 549px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(14,14,14,1);
+}
+#Paket__Premium {
+	left: 1116px;
+	top: 538px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(14,14,14,1);
+}
+#Buku_Andalan_cp {
+	left: 21px;
+	top: 1197px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(14,14,14,1);
+}
+#jkebftipxoed7qsx9x5pxt {
+	position: absolute;
+	width: 152px;
+	height: 225px;
+	left: 257px;
+	top: 1277px;
+	overflow: visible;
+}
+#Ghosting_Writer {
+	left: 284px;
+	top: 1513px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Rp_65100_ {
+	left: 295px;
+	top: 1539px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Rp_99000 {
+	left: 78px;
+	top: 1540px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Novel__Komik_cu {
+	left: 9px;
+	top: 1631px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(14,14,14,1);
+}
+#Rectangle_61 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 365px;
+	left: 2px;
+	top: 1692px;
+}
+#Rectangle_62 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 21px;
+	top: 1725px;
+}
+#Rectangle_63 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 672px;
+	top: 1723px;
+}
+#Rectangle_64 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_64 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 455px;
+	top: 1723px;
+}
+#Rectangle_65 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 238px;
+	top: 1721px;
+}
+#Rectangle_66 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 889px;
+	top: 1723px;
+}
+#Rectangle_67 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 1101px;
+	top: 1723px;
+}
+#Rectangle_68 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 1300px;
+	height: 365px;
+	left: 1px;
+	top: 2158px;
+}
+#Academy_ {
+	left: 21px;
+	top: 2098px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(14,14,14,1);
+}
+#Rectangle_69 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 15px;
+	top: 2193px;
+}
+#Rectangle_70 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_70 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 666px;
+	top: 2191px;
+}
+#Rectangle_71 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_71 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 449px;
+	top: 2191px;
+}
+#Rectangle_72 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_72 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 232px;
+	top: 2193px;
+}
+#Rectangle_73 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 883px;
+	top: 2191px;
+}
+#Rectangle_74 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 300px;
+	left: 1100px;
+	top: 2193px;
+}
+#Countless_Love__Cinta_Tak_Terh {
+	left: 59px;
+	top: 1944px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 55px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,12,12,1);
+}
+#n_789797809287_-Countless-Love {
+	position: absolute;
+	width: 134px;
+	height: 205px;
+	left: 59px;
+	top: 1725px;
+	overflow: visible;
+}
+#Rp_33000 {
+	left: 93px;
+	top: 1991px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,12,12,1);
+}
+#n_789792283723_kisah-cinta-_lo {
+	position: absolute;
+	width: 141px;
+	height: 209px;
+	left: 265px;
+	top: 1721px;
+	overflow: visible;
+}
+#Kisah_Cinta_Love_Story {
+	left: 265px;
+	top: 1954px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,12,12,1);
+}
+#Rp_45000 {
+	left: 295px;
+	top: 1986px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,12,12,1);
+}
+#n_0421_f {
+	position: absolute;
+	width: 146px;
+	height: 219px;
+	left: 482px;
+	top: 1723px;
+	overflow: visible;
+}
+#Komik_Dari_Twit-nya__Raditya_D {
+	left: 458px;
+	top: 1957px;
+	position: absolute;
+	overflow: hidden;
+	width: 185px;
+	height: 31px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#Rp_30000 {
+	left: 516px;
+	top: 1986px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#A_Presto_-_See_You_Soon_03_Tam {
+	left: 699px;
+	top: 1945px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#n_786024281618_a-presto---see- {
+	position: absolute;
+	width: 142px;
+	height: 213px;
+	left: 696px;
+	top: 1726px;
+	overflow: visible;
+}
+#Rp_5000 {
+	left: 749px;
+	top: 1987px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#Renungan_Harian__November_2022 {
+	left: 505px;
+	top: 1504px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#Rp_8500 {
+	left: 526px;
+	top: 1540px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#n_30b87e4b5bdba984c39b1cab086d {
+	position: absolute;
+	width: 148px;
+	height: 206px;
+	left: 472px;
+	top: 1283px;
+	overflow: visible;
+}
+#RS_Nov_21 {
+	position: absolute;
+	width: 158px;
+	height: 232px;
+	left: 687px;
+	top: 1277px;
+	overflow: visible;
+}
+#Renungan_Harian_Spirit__Novemb {
+	left: 693px;
+	top: 1509px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#Rp_8500_dr {
+	left: 737px;
+	top: 1549px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,13,13,1);
+}
+#Renungan_Harian_Spirit__Motiva {
+	left: 878px;
+	top: 1503px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 38px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Rp_8500_dt {
+	left: 955px;
+	top: 1548px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(9,8,8,1);
+}
+#Renungan_Harian_Spirit_Motivat {
+	position: absolute;
+	width: 157px;
+	height: 224px;
+	left: 906px;
+	top: 1280px;
+	overflow: visible;
+}
+#cover_Wangsit_Tes_Skolastik_FI {
+	position: absolute;
+	width: 158px;
+	height: 196px;
+	left: 36px;
+	top: 2200px;
+	overflow: visible;
+}
+#Wangsit_Hots_Tes_Skolastik__Se {
+	left: 0px;
+	top: 2410px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	height: 56px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,12,12,1);
+}
+#Rp_122000 {
+	left: 78px;
+	top: 2466px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(13,12,12,1);
+}
+#Fisika_Dasar_Teori_Soal__Dan_P {
+	left: 177px;
+	top: 2417px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 45px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(6,0,0,1);
+}
+#Fiska_Dasar {
+	position: absolute;
+	width: 168px;
+	height: 203px;
+	left: 243px;
+	top: 2200px;
+	overflow: visible;
+}
+#Rp_139000 {
+	left: 282px;
+	top: 2461px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(6,0,0,1);
+}
+#Lolos_Tes_Seleksi_Pramugari__P {
+	left: 449px;
+	top: 2410px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 38px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(17,0,0,1);
+}
+#n_799792675169_LOLOS-TES-SEL {
+	position: absolute;
+	width: 141px;
+	height: 217px;
+	left: 472px;
+	top: 2193px;
+	overflow: visible;
+}
+#Rp_73000 {
+	left: 505px;
+	top: 2453px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(17,0,0,1);
+}
+#Hots_Bank_Bedah_Tes__Masuk_TNI {
+	left: 706px;
+	top: 2412px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(17,0,0,1);
+}
+#n_786025365331_Hots-Bank-Bedah {
+	position: absolute;
+	width: 156px;
+	height: 212px;
+	left: 696px;
+	top: 2196px;
+	overflow: visible;
+}
+#Rp_168000 {
+	left: 721px;
+	top: 2456px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(17,0,0,1);
+}
+#Trik_Jitu_Lolos_Berbagai__Beas {
+	left: 912px;
+	top: 2412px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(17,0,0,1);
+}
+#img20200907_15081818 {
+	position: absolute;
+	width: 144px;
+	height: 215px;
+	left: 910px;
+	top: 2193px;
+	overflow: visible;
+}
+#Rp_49000 {
+	left: 956px;
+	top: 2452px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(17,0,0,1);
+}
+#Taktik_Jitu_Lolos_Psikotes__Pe {
+	left: 1100px;
+	top: 2413px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 55px;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#ID_GRAS2016MTH05TJLPPB_C {
+	position: absolute;
+	width: 159px;
+	height: 217px;
+	left: 1122px;
+	top: 2195px;
+	overflow: visible;
+}
+#Rp_65000 {
+	left: 1169px;
+	top: 2459px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#Kiara_And_Year_Sale {
+	left: 919px;
+	top: 1957px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#n_07776_f {
+	position: absolute;
+	width: 161px;
+	height: 233px;
+	left: 911px;
+	top: 1725px;
+	overflow: visible;
+}
+#Rp_58500 {
+	left: 947px;
+	top: 1982px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#Lukisan_Metafora {
+	left: 1142px;
+	top: 1958px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#n_18535_f {
+	position: absolute;
+	width: 155px;
+	height: 229px;
+	left: 1123px;
+	top: 1725px;
+	overflow: visible;
+}
+#Rp72200 {
+	left: 1170px;
+	top: 1988px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#Terapi__Doa_Anti_Galau {
+	left: 1131px;
+	top: 1506px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#Rp_19550 {
+	left: 1170px;
+	top: 1536px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(16,16,16,1);
+}
+#n_5462_f {
+	position: absolute;
+	width: 150px;
+	height: 223px;
+	left: 1126px;
+	top: 1279px;
+	overflow: visible;
+}
